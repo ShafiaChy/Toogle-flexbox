@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+}
+.parent-div{
+    background-image: url('https://media.istockphoto.com/vectors/landscape-scene-mountain-peak-with-cloud-at-night-purple-tone-vector-id916802924?b=1&k=20&m=916802924&s=170667a&w=0&h=0KWj4HANTgwijfGDk7nHpKPvei8w04J8Ve1C9ivxKd8=');
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+}
+.second-parent{
+   
+    width: 50%;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    font-size: 56px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+input{
+    width: 75%;
+    height: 35px;
+    border-radius:3%;
+    border: 0;
+}
+button{
+    background-color: rgb(149, 71, 156);
+    color: white;
+    border: 0;
+    padding: 10px;
+  
+    
+}
+.div-two{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+}
+.div-image{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+  
+}
+.div-image-parent{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.div-image-child{
+    margin-top: 15px;
+    width: 75%;
+    height: 150px;
+}
