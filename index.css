@@ -37,7 +37,7 @@ button{
   
     
 }
-.div-two{
+.search-div{
     display: flex;
     justify-content: center;
 }
@@ -45,12 +45,6 @@ img{
     width: 50px;
     border-radius: 50%;
     height: 50px;
-}
-.div-image{
-    display: flex;
-    justify-content: space-around;
-    margin-top: 15px;
-  
 }
 .div-image-parent{
     display: flex;
@@ -62,4 +56,10 @@ img{
     margin-top: 15px;
     width: 75%;
     height: 150px;
+}
+.div-image{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+  
 }
